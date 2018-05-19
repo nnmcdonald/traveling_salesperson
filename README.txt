@@ -1,0 +1,1 @@
+This program calculates the cost of the shortest path connecting every node in a fully connected graph, the edge weights for the graph are randomly generated. The program calculates the optimal path first using hill climbing with random restart, then again with simulated annealing, then it prints the cost, iterations, and runtime for each algorithm.
